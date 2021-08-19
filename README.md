@@ -1,4 +1,4 @@
-# EDA-nyc-parking-violations
+# EDA - NYC Parking Violations
 
 Exploratory data analysis of NYC parking violations using Pandas and several visualization libraries 
 This Jupyter notebook can also be found [on Jovian](https://jovian.ai/samantha-roberts/exploratory-data-analysis-nyc-parking)
